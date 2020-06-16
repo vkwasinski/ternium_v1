@@ -1,0 +1,8 @@
+
+    RewriteEngine On
+    RewriteBase /ternium_event_v1/src/
+    RewriteRule ^index\.php$ - [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . /ternium_event_v1/src/index.php [L]
+

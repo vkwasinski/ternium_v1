@@ -1,0 +1,59 @@
+/**
+ * Home Template
+ */
+body {
+	background-image: url(../img/bg_top_home.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-y: 0;
+	min-width: 1390px;
+}
+
+.row-event-big {
+	margin-top: 8rem;
+}
+
+img.event-big {
+    margin: 0 auto;
+    display: block;
+    max-width: calc(100vw/100*25);
+    position: relative;
+    bottom: 90px;
+
+}
+
+
+.row-event-sub {
+	margin-top: 5rem;
+	text-align: center;
+}
+
+.row-event-sub p {
+	color: #007eb1;
+	font-size: 2rem;
+	line-height: 2.1rem;
+	font-weight: bold;
+}
+
+.row-event-sub p span {
+	font-size: 3rem;
+}
+
+
+.row-confirmar {
+	text-align: center;
+	margin: 2rem;
+}
+
+.row-confirmar p {
+	color: #b9b9b9;
+	font-weight: normal;
+	font-size: 1.2rem;
+	line-height: 1.8rem;
+}
+
+.button-register {
+	display: block;
+    margin: 0 auto;
+    width: 20%
+}

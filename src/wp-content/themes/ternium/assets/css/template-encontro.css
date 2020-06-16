@@ -1,0 +1,32 @@
+/**
+ * Encontro
+ */
+.row-title {
+	margin-bottom: 5rem;
+}
+
+.row-subtitle {
+	margin-top: 5rem;
+}
+
+.row-content {
+	margin-top: 2rem;
+}
+
+.row-content img {
+	width: 100%;
+}
+
+img.icon-enc {
+	width: fit-content;
+    display: block;
+    margin: 0 auto;
+}
+
+.row-details {
+	margin-top: 2rem;
+}
+
+.row-details h5 {
+	text-align: left;
+}

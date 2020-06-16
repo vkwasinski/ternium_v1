@@ -1,0 +1,18 @@
+/**
+ * Attractions Template
+ */
+.row-title {
+	margin-bottom: 5rem;
+}
+
+.row-subtitle {
+	margin-top: 5rem;
+}
+
+.row-content {
+	margin-top: 2rem;
+}
+
+.row-content img {
+	width: 100%;
+}

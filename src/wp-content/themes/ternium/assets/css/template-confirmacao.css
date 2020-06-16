@@ -1,0 +1,77 @@
+/**
+ * Confirmation Template
+ */
+.row-greeting {
+	margin-top: 5rem;
+}
+
+.box-title {
+	margin-top: 4rem;
+}
+
+input {
+	border: none !important;
+	border-bottom: 1px solid #cecece !important;
+	border-radius: 0 !important;
+	padding: 1.8rem .5rem;
+}
+
+.form-obs {
+	font-size: .9rem;
+	text-align: center;
+	display: block;
+	width: 100%;
+	margin: 2rem auto;
+}
+
+.obs-title {
+	font-weight: bold;
+	display: block;
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.3rem;
+}
+
+.obs-desc {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+#observacoes {
+	width: 65%;
+    display: block;
+    margin: 2rem auto;
+    border: 1px solid #cecece;
+    border-radius: 11px;
+    height: 10rem;
+}
+
+.row-transporte {
+    border: 1px solid #cecece;
+    border-radius: 11px;
+    padding: 1rem 1rem;
+    margin-top: 2rem;
+}
+
+.row-transporte label {
+	font-size: 1.4rem;
+}
+
+.row-confirm {
+	color: #f3522b;
+	border: 1px solid #f3522b;
+	border-radius: 10px;
+	padding: 3rem;
+	margin-top: 3rem;
+	text-align: center;
+}
+
+.row-confirm p {
+	color: #f3522b;
+}
+
+#modal-confirmation p {
+	text-align: left;
+}

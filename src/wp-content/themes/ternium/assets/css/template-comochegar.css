@@ -1,0 +1,38 @@
+/**
+ * Como Chegar Template
+ */
+.row-title {
+	margin-bottom: 5rem;
+}
+
+.row-subtitle {
+	margin-top: 5rem;
+}
+
+.row-content {
+	margin-top: 4rem;
+}
+
+.row-content img {
+    display: block;
+    margin: 0 auto;
+}
+
+.row-content p {
+	width: 80%;
+}
+
+h3 {
+	color: #f3522b;
+	font-weight: normal;
+}
+
+.container-fluid {
+	margin: 2;
+	padding: 0;
+}
+
+img.map-comochegar {
+	margin-top: 5rem;
+	width: 100vw;
+}

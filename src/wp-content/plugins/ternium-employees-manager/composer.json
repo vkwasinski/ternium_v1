@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {"Ternium\\Plugin\\": "src/"}
+    }
+}
